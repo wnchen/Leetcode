@@ -457,7 +457,7 @@ _If you like this project, please leave me a star._ &#9733;
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[Solution](../master/src/main/java/com/fishercoder/solutions/_392.java)|  |Medium| Array, String
 |391|[Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/)|[Solution](../master/src/main/java/com/fishercoder/solutions/_391.java)|  |Hard| 
 |390|[Elimination Game](https://leetcode.com/problems/elimination-game/)|[Solution](../master/src/main/java/com/fishercoder/solutions/_390.java)|  |Medium|
-|389|[Find the Difference](https://leetcode.com/problems/find-the-difference/)|[Solution](../master/src/main/java/com/fishercoder/solutions/_389.java)| || Easy|
+|389|[Find the Difference](https://leetcode.com/problems/find-the-difference/)|[Solution](../master/src/main/java/com/fishercoder/solutions/_389.java)| | Easy|
 |388|[Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/)|[Solution](../master/src/main/java/com/fishercoder/solutions/_388.java)|  |Medium| Stack
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Solution](../master/src/main/java/com/fishercoder/solutions/_387.java)|  |Easy| HashMap
 |386|[Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/)|[Solution](../master/src/main/java/com/fishercoder/solutions/_386.java)| |Medium| 
@@ -575,10 +575,10 @@ _If you like this project, please leave me a star._ &#9733;
 |274|[H-Index](https://leetcode.com/problems/h-index/)|[Solution](../master/src/main/java/com/fishercoder/solutions/_274.java)| |Medium| 
 |273|[Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)|[Solution](../master/src/main/java/com/fishercoder/solutions/_273.java)|  |Hard| Math, String 
 |272|[Closest Binary Search Tree Value II](https://leetcode.com/problems/closest-binary-search-tree-value-ii/)|[Solution](../master/src/main/java/com/fishercoder/solutions/_272.java)|  |Hard| Stack
-|271|[Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)|[Solution](../master/src/main/java/com/fishercoder/solutions/_271.java)|  | |Medium| 
-|270|[Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/)|[Solution](../master/src/main/java/com/fishercoder/solutions/_270.java)|  | |Easy| DFS
-|269|[Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)|[Solution](../master/src/main/java/com/fishercoder/solutions/_269.java)|  | |Hard| Topological Sort
-|268|[Missing Number](https://leetcode.com/problems/missing-number/)|[Solution](../master/src/main/java/com/fishercoder/solutions/_268.java)| | |Easy| Bit Manipulation
+|271|[Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)|[Solution](../master/src/main/java/com/fishercoder/solutions/_271.java)| |Medium| 
+|270|[Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/)|[Solution](../master/src/main/java/com/fishercoder/solutions/_270.java)| |Easy| DFS
+|269|[Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)|[Solution](../master/src/main/java/com/fishercoder/solutions/_269.java)| |Hard| Topological Sort
+|268|[Missing Number](https://leetcode.com/problems/missing-number/)|[Solution](../master/src/main/java/com/fishercoder/solutions/_268.java)| |Easy| Bit Manipulation
 |267|[Palindrome Permutation II](https://leetcode.com/problems/palindrome-permutation-ii/)|[Solution](../master/src/main/java/com/fishercoder/solutions/_267.java)|  |Medium|
 |266|[Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/)|[Solution](../master/src/main/java/com/fishercoder/solutions/_266.java)| |Easy|
 |265|[Paint House II](https://leetcode.com/problems/paint-house-ii/)|[Solution](../master/src/main/java/com/fishercoder/solutions/_265.java)|  |Hard| DP 
